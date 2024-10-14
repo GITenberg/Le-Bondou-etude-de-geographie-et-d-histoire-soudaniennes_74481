@@ -1,0 +1,36 @@
+_repo: Le-Bondou-etude-de-geographie-et-d-histoire-soudaniennes_74481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rançon, A. (André)
+    aliases:
+    - Rançon, André
+    - Rancon, A. (Andre)
+    birthdate: 1858
+    deathdate: 1900
+    gutenberg_agent_id: '57180'
+    url: http://www.gutenberg.org/2009/agents/57180
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Ran%C3%A7on
+description: ''
+gutenberg_issued: '2024-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74481'
+language: fr
+pgterms:marc904: https://www.digitale-sammlungen.de/de/view/bsb11543890
+pgterms:marc905: 20240825230714ranon
+pgterms:marc906: '1894'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bayerische Staatsbibliothek)
+publication_note: '  $aBordeaux :$bG. Gounouilhou, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boundou (Senegal) -- History'
+- !lcsh 'Africa, French-speaking West -- History'
+- !lcc 'DT'
+- GITenberg
+title: 'Le Bondou: étude de géographie et d''histoire soudaniennes'
+url: http://www.gutenberg.org/ebooks/74481
