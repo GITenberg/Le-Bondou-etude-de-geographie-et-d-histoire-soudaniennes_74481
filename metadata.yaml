@@ -1,5 +1,8 @@
 _repo: Le-Bondou-etude-de-geographie-et-d-histoire-soudaniennes_74481
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74481-h/images/cover.png
 creator:
   author:
     agent_name: Rançon, A. (André)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57180
     wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Ran%C3%A7on
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74481#Le-Bondou-etude-de-geographie-et-d-histoire-soudaniennes
 gutenberg_issued: '2024-09-26'
 gutenberg_type: Text
 identifiers:
